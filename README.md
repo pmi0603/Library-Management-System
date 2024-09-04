@@ -9,7 +9,7 @@ Binary Search Tree (BST): Implementing a BST to store books by title, demonstrat
 
 Linked List: Using a linked list to maintain the insertion order of books.
 <br/>
-<br />
+
 2. File Handling and Persistence:
 Use of file handling to save and load the library data ensures that the system can store data persistently, which is a key aspect of real-world applications.
 
