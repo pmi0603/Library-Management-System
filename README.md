@@ -10,10 +10,10 @@ Binary Search Tree (BST): Implementing a BST to store books by title and demonst
 Linked List: Using a linked list to maintain the insertion order of books.
 <br/>
 <br />
-3. File Handling and Persistence:
+2. File Handling and Persistence:
 Use of file handling to save and load the library data ensures that the system can store data persistently, which is a key aspect of real-world applications.
 <br/>
 
 
-4. Object-Oriented Programming:
+3. Object-Oriented Programming:
 The code is well-structured using classes and structs, showcasing your understanding of object-oriented programming principles.
